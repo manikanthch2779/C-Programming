@@ -1,4 +1,5 @@
 # C-Programming
+![C](https://img.shields.io/badge/C-Learning-blue?style=for-the-badge&logo=c)
 ## About
 **This contains my C programming learning journey**
 - Learned Concepts
