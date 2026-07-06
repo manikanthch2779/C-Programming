@@ -2,7 +2,7 @@
 ![C](https://img.shields.io/badge/C-Learning-blue?style=for-the-badge&logo=c)
 ## About
 **This contains my C programming learning journey**
--📖Learned Concepts  
+- 📖Learned Concepts  
 - 📝Practiced Problems  
 - 📗Learnings from My Mistakes  
 - 💡Overall Understanding of C programming  
@@ -14,16 +14,16 @@
 🔸 Build Mini-projects  
 ## Topics
 - ⭐Rules of C Programming  
-- ⭐Operators  
+- 🌟Operators  
 - ⭐Data Types  
-- ⭐Variables & their Limitations  
+- 🌟Variables & their Limitations  
 - ⭐General Format & Editor Commands  
 - 🌟Functions  
-- 🌟Loops  
+- ⭐Loops  
 - 🌟Arrays  
-- 🌟Strings  
+- ⭐Strings  
 - 🌟Library Functions  
-- 🌟Graphics  
+- ⭐Graphics  
 - 🌟User Defined Functions  
 ## Author
 > *Manikanth.Challagulla*  
