@@ -24,6 +24,7 @@
 - Strings
 - Library Functions
 - Graphics
+- User Defined Functions
 ## Author
 *Manikanth.Challagulla*
 *First-Year Engineering Student|CSE|Learning C and Python*
