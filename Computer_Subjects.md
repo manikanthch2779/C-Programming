@@ -1,5 +1,5 @@
 # Computer Subjects
-* There are mainly 3 subjects
+🔹 There are mainly 3 subjects
 ## 1.Operating Systems🖥
 - DOS
 - WINDOWS
@@ -9,14 +9,14 @@
 - Word🔠
 - Excel📊 ....
 ## 3.Languages
-* There are 3 types of languages
+🔸 There are 3 types of languages
 ### a.High Level
-+ Cobol
-+ Fortan
-+ Pascal ....
+🌟 Cobol
+🌟 Fortan
+🌟 Pascal ....
 ### b.Low Level
-+ Assembly
+🌟 Assembly
 ### c.Middle Level(High level+Low Level)
-+ C
-+ C++ ...
+🌟 C
+🌟 C++ ...
 > C Language developed by 'Dennis Ritche' and 'Ken Thompson' at 'AT & T Bell' laboratories in 1972
