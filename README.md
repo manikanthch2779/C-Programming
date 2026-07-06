@@ -2,16 +2,16 @@
 ![C](https://img.shields.io/badge/C-Learning-blue?style=for-the-badge&logo=c)
 ## About
 **This contains my C programming learning journey**
-- 📖Learned Concepts  
+-📖Learned Concepts  
 - 📝Practiced Problems  
 - 📗Learnings from My Mistakes  
 - 💡Overall Understanding of C programming  
 - 📁Mini Projects  
 ### Learning Goals
 🔹 Learning C from basics  
-🔹 Solve Programming Problems  
+🔸 Solve Programming Problems  
 🔹 Solve Real-World Problems  
-🔹 Build Mini-projects  
+🔸 Build Mini-projects  
 ## Topics
 - ⭐Rules of C Programming  
 - ⭐Operators  
