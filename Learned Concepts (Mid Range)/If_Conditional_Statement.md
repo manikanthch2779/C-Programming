@@ -3,33 +3,33 @@
 ---
 ## Syntax
 ### 1.First Type
-- if(condition)
-  {
-    statements;
-  }
+- if(condition)  
+  {  
+    statements;  
+  }  
 ---
 ### 2.Second type
-- if(condition)
-  {
-    statements;
-  }
-  else
-  {
-    statemens;
-  }
+- if(condition)  
+  {  
+    statements;  
+  }  
+  else  
+  {  
+    statemens;  
+  }  
 ### 3.Third type
-- if(condition)
-  {
-    statements;
-  }
-  else if(condition)
-  {
-    statements;
-  }
-  else
-  {
-    statements;
-  }
+- if(condition)  
+  {  
+    statements;  
+  }  
+  else if(condition)  
+  {  
+    statements;  
+  }  
+  else  
+  {  
+    statements;  
+  }  
 ### IMPORTANT POINTS TO REMEMBER
 - 🌟There should no semicolon in the 'if' line
 - ⭐If only one statement is there in one line only then, there is no need of open and close flower brackets.Ypu can keep.It is completely your wish
