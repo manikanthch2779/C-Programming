@@ -15,7 +15,7 @@
   }  
   else  
   {  
-    statemens;  
+    statements;  
   }  
 ### 3.Third type
 - if(condition)  
